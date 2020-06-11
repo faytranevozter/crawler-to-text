@@ -1,0 +1,12 @@
+{
+    "name": "elfay/parser",
+    "authors": [
+        {
+            "name": "Fahrur Rifai",
+            "email": "mfahrurrifai@gmail.com"
+        }
+    ],
+    "require": {
+        "paquettg/php-html-parser": "^2.2"
+    }
+}
